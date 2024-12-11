@@ -3,10 +3,12 @@ This is a [Next.js](https://nextjs.org) project
 ##
 Frontend Project: Reactive Data Table in Next.js with Supabase and TailwindCSS
 
+Vercel preview: https://reactive-data-table-liard.vercel.app/
+
 ## Objective:
 Build a reactive, editable data table using Next.js, TailwindCSS, and Supabase that behaves similarly to Clay/Airtable. The table should support CRUD operations,pagination, and real-time updates. Please feel free to sign up for a free account at https:/ /clay.com and create a table for yourself.
 
-## demo futures + links:
+## Demo Features:
 - new column popup click name to edit
 - futures progress:
 Data Table Features
